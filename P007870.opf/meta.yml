@@ -3,5 +3,24 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN8167
   title: རྒྱུན་སྤྱོད་ཚན་རིག་ལག་རྩལ་སྐོར་གྱི་ཤེས་བྱ།༼ སྟོད་སྨད།༽
-  volume: ''
+  volume:
+    a194f156655148aa9158b2fa7515f290:
+      image_group_id: I1KG85661
+      title: Volume 1 of rgyun spyod tshan rig lag rtsal skor gyi shes bya/(_stod
+        smad/)
+      volume_number: 1
+      total_pages: 186
+    d6c8860a14c4418e90eaf514b4bd7f26:
+      image_group_id: I1KG85662
+      title: Volume 2 of rgyun spyod tshan rig lag rtsal skor gyi shes bya/(_stod
+        smad/)
+      volume_number: 2
+      total_pages: 188
   author: ''
+ebook_metadata:
+  title: རྒྱུན་སྤྱོད་ཚན་རིག་ལག་རྩལ་སྐོར་གྱི་ཤེས་བྱ།༼ སྟོད་སྨད།༽
+  author: ''
+  sku: P007870
+  cover: cover.jpg
+  layers:
+  - pagination
