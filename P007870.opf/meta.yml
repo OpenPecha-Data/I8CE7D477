@@ -1,22 +1,24 @@
-id: opecha:P007870
+id: P007870
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN8167
   title: རྒྱུན་སྤྱོད་ཚན་རིག་ལག་རྩལ་སྐོར་གྱི་ཤེས་བྱ།༼ སྟོད་སྨད།༽
-  volume:
+  author: ''
+  volumes:
     a194f156655148aa9158b2fa7515f290:
       image_group_id: I1KG85661
       title: Volume 1 of rgyun spyod tshan rig lag rtsal skor gyi shes bya/(_stod
         smad/)
       volume_number: 1
       total_pages: 186
+      base_file: v001.txt
     d6c8860a14c4418e90eaf514b4bd7f26:
       image_group_id: I1KG85662
       title: Volume 2 of rgyun spyod tshan rig lag rtsal skor gyi shes bya/(_stod
         smad/)
       volume_number: 2
       total_pages: 188
-  author: ''
+      base_file: v002.txt
 ebook_metadata:
   title: རྒྱུན་སྤྱོད་ཚན་རིག་ལག་རྩལ་སྐོར་གྱི་ཤེས་བྱ།༼ སྟོད་སྨད།༽
   author: ''
